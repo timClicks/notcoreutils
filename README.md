@@ -5,8 +5,18 @@ Learn Rust by needlessly implementing GNU `coreutils`
 ## About
 
 This text is intended as a bit of a choose your own adventure walkthrough of the Rust
-programming language. I'll be learning along the way. I'm a Python programmer, and I
-will be documenting things as I learn.
+programming language. There are (well, will be) dozens of small projects in here
+that explore different parts of the language. By project two, we already touch
+upon one of Rust's specialties: conditional compilation depending on which
+operating system we're dealing with.
+
+If you're not sure what conditional compilation might mean, don't let that scare
+you off though. We start easy and all of the projects are well documented.
+
+This book is written by a Python programmer learning Rust. That means that
+it's unlikely that you'll find perfectly idiomatic code. Still, I hope you find
+reading worthwhile. If you find something that should be improved, you are
+very welcome to submit a pull request to get it fixed!
 
 
 ## Reading
